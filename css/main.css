@@ -1,0 +1,26 @@
+body {
+  background-image: url('http://cdn-image.travelandleisure.com/sites/default/files/styles/964x524/public/1479915553/hamilton-princess-bermuda-WTG2017.jpg?itok=E4sFyZFn');
+  background-repeat: no-repeat;
+  background-blend-mode: soft-light;
+  background-size: cover;
+  text-align: center;
+}
+input {
+  border-radius: 5px;
+}
+h1{
+  color: #fff;
+  font-weight: bolder;
+   margin-top: 100px;
+   z-index: -1;
+}
+.container {
+  margin-top: 50px;
+  width: 700px;
+  height: 550px;
+  background-color: #736a78;
+  opacity: 0.7;
+}
+p {
+  color: #fff;
+}
